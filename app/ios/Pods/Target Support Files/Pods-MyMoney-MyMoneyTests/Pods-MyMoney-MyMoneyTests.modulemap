@@ -1,0 +1,6 @@
+module Pods_MyMoney_MyMoneyTests {
+  umbrella header "Pods-MyMoney-MyMoneyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
